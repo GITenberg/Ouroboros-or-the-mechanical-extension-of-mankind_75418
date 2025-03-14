@@ -1,0 +1,36 @@
+_repo: Ouroboros-or-the-mechanical-extension-of-mankind_75418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Garet
+    alias: Garrett, Edward Peter
+    birthdate: 1878
+    deathdate: 1954
+    gutenberg_agent_id: '51042'
+    url: http://www.gutenberg.org/2009/agents/51042
+    wikipedia: https://en.wikipedia.org/wiki/Garet_Garrett
+description: ''
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75418'
+language: en
+pgterms:marc904: https://archive.org/details/ouroborosormecha00garruoft/page/n7/mode/2up
+pgterms:marc905: 20220909020426garrett
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bKegan Paul, Trench, Trubner & Co., $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: To-day and to-morrow series
+subjects:
+- !lcsh 'Machinery'
+- !lcsh 'Machinery in the workplace'
+- !lcc 'HD'
+- GITenberg
+title: Ouroboros; or, the mechanical extension of mankind
+url: http://www.gutenberg.org/ebooks/75418
